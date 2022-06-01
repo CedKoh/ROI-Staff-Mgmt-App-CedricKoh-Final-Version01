@@ -22,7 +22,7 @@
      return (
        <Provider store={store}>
          <Appbar.Header style={{backgroundColor: '#ccccff'}}>
-           <Appbar.Content color={'black'} style={{backgroundColor: '#941a1d'}} title="Red Opal Innovations" subtitle={'Developed using React Native'} />
+           <Appbar.Content color={'black'} style={{backgroundColor: '#941a1d'}} title="Red Opal Innovations Management Application" subtitle={'Developed using React Native'} />
          </Appbar.Header>
          <Navigation />
        </Provider>
