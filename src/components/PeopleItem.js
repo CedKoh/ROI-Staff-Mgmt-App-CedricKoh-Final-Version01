@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import Icon from 'react-native-vector-icons/EvilIcons';
 import * as actions from '../actions';
 import { Card, Title, Paragraph, Avatar, IconButton } from 'react-native-paper';
-
+//Comment for third commit
 const styles = StyleSheet.create({
     card: {
         marginTop: 20
